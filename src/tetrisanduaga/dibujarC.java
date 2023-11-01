@@ -20,8 +20,8 @@ import java.awt.RenderingHints;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Random;
-import tetris.O;
-import tetris.Z;
+import cuadritos.O;
+import cuadritos.Z;
 
 /**
  *
